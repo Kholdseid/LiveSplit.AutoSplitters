@@ -2,6 +2,16 @@
 <AutoSplitters>
     <AutoSplitter>
         <Games>
+            <Game>Klonoa 2: Dream Champ Tournament</Game>
+        </Games>
+        <URLs>
+            <URL>https://github.com/Kholdseid/Autosplitters/blob/main/klonoa2dct.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Automatic start, split, and reset.(By Kholdseid)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
             <Game>Five Nights at Freddy's: Ruin</Game>
         </Games>
         <URLs>
